@@ -1,3 +1,4 @@
-bin/
-obj/
-temp/
+.bin/
+.obj/
+.temp/
+.vs/
